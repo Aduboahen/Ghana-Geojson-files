@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mole National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7907714843749998,
+          9.557417356841308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Digya National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2197265625,
+          7.438730529686968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bia National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.076171875,
+          6.487254344358068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aboniyere Forest Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7575683593749996,
+          6.582760097407956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boin National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.85369873046875,
+          5.9575584886074955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suhuma Forest Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.48291015625,
+          6.0804732884901425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ankasa Game Reserve and Nini-Suhien National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.59002685546875,
+          5.276947744869894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Draw River Forest Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.335968017578125,
+          5.219511325926304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keta Lagoon Ramsar Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8349609375,
+          5.932972207945653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bui National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4320983886718746,
+          8.504970203442133
+        ]
+      }
+    }
+  ]
+}
